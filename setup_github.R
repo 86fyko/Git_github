@@ -10,3 +10,6 @@ git_vaccinate()
 usethis::use_git()
 use_github()
 git_vaccinate()
+git_default_branch_rename()
+git_default_branch_configure(name="main")
+
