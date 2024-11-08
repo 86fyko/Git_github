@@ -20,4 +20,5 @@ git_default_branch_configure(name="main") # set new default
 
 #get a repo and fork it. 
 #fork the repo, creating a copy in your own GitHub account.
-#create_from_github("kingsleyshacklebolt/dragon_study", fork = TRUE)
+
+#create_from_github("anacheca/norwaycourse_git", fork = TRUE)
