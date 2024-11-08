@@ -22,3 +22,5 @@ git_default_branch_configure(name="main") # set new default
 #fork the repo, creating a copy in your own GitHub account.
 
 #create_from_github("anacheca/norwaycourse_git", fork = TRUE)
+
+##new changes for creating a conflict
